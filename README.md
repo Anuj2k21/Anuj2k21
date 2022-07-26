@@ -1,4 +1,4 @@
-<h1 style="color:read" align="center">Hi 👋, I'm Anuj Kashyap</h1>
+<h1 style=color:"red">Hi 👋, I'm Anuj Kashyap</h1>
 <h3 align="center"><font style=color:red;>I am creative and love to solve real life challenges with power of coding</font>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj2k21&label=Profile%20views&color=0e75b6&style=flat" alt="anuj2k21" /> </p>
