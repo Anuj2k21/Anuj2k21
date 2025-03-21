@@ -3,7 +3,7 @@ this github profile header make it  more atractive and powerfull
 
 
 <h1 style= align ="center>" Hi 👋, I'm Anuj Kashyap</h1>
-<h3 align="center"><font style=color:red;>I am creative and love to solve real life challenges with power of coding</font>.</h3> make it darkk background  and set color according gle 
+<h3 align="center"><font style=color:red;>I am creative and love to solve real life challenges with power of coding</font>.</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj2k21&label=Profile%20views&color=0e75b6&style=flat" alt="anuj2k21" /> </p>
 
